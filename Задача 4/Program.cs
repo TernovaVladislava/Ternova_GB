@@ -12,3 +12,5 @@ if (b%2==0)
 if (c%2==0)
 {Console.WriteLine($"Четное число c = {a}");}
 
+
+
